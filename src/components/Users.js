@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import {Modal} from 'antd';
+
 import Dialog from './Dialog';
 
 
